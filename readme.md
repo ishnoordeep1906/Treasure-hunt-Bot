@@ -21,3 +21,4 @@ Logic Execution: Custom JavaScript (for guess validation & state management)
 👤 Author
 
 Developed by Ishnoordeep Kaur
+Click here to Test bot: https://cdn.botpress.cloud/webchat/v3.7/shareable.html?configUrl=https://files.bpcontent.cloud/2026/10/16/19/20261016191553-8TCZS39V.json
